@@ -1,2 +1,0 @@
-# ReactNativeProject
-my rn project
